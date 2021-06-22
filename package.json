@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juunegreiros/nodejs-api-rest.git"
+    "url": "git+https://github.com/jesica-bampi/nodejs-api-rest"
   },
-  "author": "juliana negreiros",
+  "author": "Jesica Bampi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juunegreiros/nodejs-api-rest/issues"
+    "url": "https://github.com/jesica-bampi/nodejs-api-rest/issues"
   },
-  "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
+  "homepage": "https://github.com/jesica-bampi/nodejs-api-rest#readme",
   "dependencies": {
     "axios": "^0.19.1",
     "consign": "^0.1.6",
